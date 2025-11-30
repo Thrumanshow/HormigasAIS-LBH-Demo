@@ -1,1 +1,3 @@
-# HormigasAIS-LBH-Demo
+# HormigasAIS LBH Demo (Versión Completa)
+
+Proyecto demostrativo oficial.
