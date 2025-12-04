@@ -22,6 +22,7 @@ Proyecto demostrativo oficial.
 Proyecto demostrativo oficial del protocolo LBH.
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-HormigasAIS-blue.svg)](https://www.paypal.com/ncp/payment/86Q8SS3NRV876)
+
 [![DOI](https://zenodo.org/badge/735514687.svg)](https://zenodo.org/doi/10.5281/zenodo.17070288)
 
 ---
