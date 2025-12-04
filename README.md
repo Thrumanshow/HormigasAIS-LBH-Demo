@@ -1,7 +1,8 @@
 # HormigasAIS LBH Demo
 
 
-[![Sponsor](https://img.shields.io/badge/Sponsor-HormigasAIS-blue.svg)](https://www.paypal.com/ncp/payment/86Q8SS3NRV876)
+[![Apoyar con PayPal](https://img.shields.io/badge/Apoyar%20con%20PayPal-blue.svg)](https://www.paypal.com/ncp/payment/86Q8SS3NRV876)
+
 
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17767205.svg)](https://doi.org/10.5281/zenodo.17767205)
@@ -15,18 +16,6 @@ Proyecto demostrativo y validado del protocolo LBH.
 
 
 Proyecto demostrativo oficial.
-
-
-# 🐜 HormigasAIS LBH Demo  
-**Lenguaje-Binario-HormigasAIS (LBH) — Versión 01-09-19**  
-Proyecto demostrativo oficial del protocolo LBH.
-
-[![Sponsor](https://img.shields.io/badge/Sponsor-HormigasAIS-blue.svg)](https://www.paypal.com/ncp/payment/86Q8SS3NRV876)
-
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17767205.svg)](https://doi.org/10.5281/zenodo.17767205)
-
-
 
 ---
 
