@@ -1,6 +1,10 @@
 # HormigasAIS LBH Demo
 
 
+
+Si te gusta este proyecto y quieres apoyarlo, puedes hacerlo a través de [GitHub Sponsors](https://github.com/sponsors/Thrumanshow). 
+
+
 [![Apoyar con PayPal](https://img.shields.io/badge/Apoyar%20con%20PayPal-blue.svg)](https://www.paypal.com/ncp/payment/86Q8SS3NRV876)
 
 
